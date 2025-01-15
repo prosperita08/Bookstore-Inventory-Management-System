@@ -12,9 +12,9 @@ A simple Python-based system to manage the inventory of a bookstore. This projec
 1. Clone this repository to your local machine:  
 ```git clone https://github.com/SamriddhiBhatnagar/bookstore-inventory-management-system.git```
 2. Navigate to the project directory:  
-cd bookstore-inventory-management-system
+```cd bookstore-inventory-management-system```
 3. Run the program:  
-python bookstoreinventorymanagement.py
+```python bookstoreinventorymanagement.py```
 4. Follow the on-screen menu to manage your bookstore inventory.
 ## Prerequisites
 Python 3.x must be installed on your system.
