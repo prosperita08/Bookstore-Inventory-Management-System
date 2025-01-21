@@ -10,7 +10,7 @@ A simple Python-based system to manage the inventory of a bookstore. This projec
 - User-Friendly Menu: Interactive menu-driven interface for easy navigation.
 ## How to Use
 1. Clone this repository to your local machine:  
-```git clone https://github.com/SamriddhiBhatnagar/bookstore-inventory-management-system.git```
+```git clone https://github.com/prosperita08/bookstore-inventory-management-system.git```
 2. Navigate to the project directory:  
 ```cd bookstore-inventory-management-system```
 3. Run the program:  
